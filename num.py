@@ -25,4 +25,3 @@ print("Above Average Months: ", above_avg)
 print("Below Average Months: ", below_avg)
 
 
-print("Testttt")
