@@ -23,3 +23,6 @@ above_avg = months[sales > np.mean(sales)]
 below_avg = months[sales < np.mean(sales)]
 print("Above Average Months: ", above_avg)
 print("Below Average Months: ", below_avg)
+
+
+print("Testttt")
